@@ -18,7 +18,9 @@ public final class ToadMC extends JavaPlugin {
         System.out.println("Version: 1.0.0 ");
         System.out.println("By DelawareX");
         System.out.println("By ToadMC");
+        System.out.println("Bebecita ua lo de nosotros es un secreto");
     }
+
     @Override
     public void onDisable() {
 
