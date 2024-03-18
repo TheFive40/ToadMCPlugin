@@ -23,7 +23,6 @@ public final class ToadMC extends JavaPlugin {
 
     @Override
     public void onDisable() {
-        // Plugin shutdown logic
     }
 
     public CommandFramework getCommandFramework() {
