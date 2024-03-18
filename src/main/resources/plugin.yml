@@ -1,4 +1,4 @@
 name: ToadMCPlugin
 version: '${project.version}'
-main: org.example.es.toadmcplugin.ToadMCPlugin
+main: org.jeansama.net.toadmc.ToadMC
 api-version: '1.16'
